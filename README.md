@@ -4,7 +4,7 @@
 I'm currently pursuing a degree in **Information Technology** at **QUEST Nawabshah**. I'm passionate about **web development** and always eager to learn new technologies to enhance my skills in building modern, responsive websites.
 
 ### 💻 Skills & Technologies
-- HTML5, CSS3, JavaScript
+- HTML, CSS, JavaScript
 - Tailwind CSS
 - Git & GitHub
 - Basics of Node.js & Express
