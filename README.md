@@ -9,7 +9,7 @@ I'm currently pursuing a degree in **Information Technology** at **QUEST Nawabsh
 - Git & GitHub
 - React.js
 - Express & Node.js
-- 
+
 
 ### 🎯 Goals
 - Enhance my knowledge in **Full-Stack development**.
