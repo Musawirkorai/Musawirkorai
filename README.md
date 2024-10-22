@@ -7,8 +7,9 @@ I'm currently pursuing a degree in **Information Technology** at **QUEST Nawabsh
 - HTML, CSS, JavaScript
 - Tailwind CSS
 - Git & GitHub
-- Basics of Node.js & Express
-- Learning React.js
+- React.js
+- Express & Node.js
+- 
 
 ### 🎯 Goals
 - Enhance my knowledge in **Full-Stack development**.
