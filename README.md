@@ -1,4 +1,4 @@
-https://github.com/Musawirkorai/Musawirkorai/blob/main/Dev%20Gift.gif?raw=true
+https://github.com/Musawirkorai/Musawirkorai/blob/2b59392b50818b623d94fefe8a1d3162b9ab60d2/Dev%20Gift.gif
 
 # Hi, I'm Musawir Ali! 👋
 
