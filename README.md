@@ -3,15 +3,15 @@
 
 <img src="https://github.com/user-attachments/assets/4f2fe7c3-a044-4d53-9ee7-31a6f8624065" 
      alt="Dev Gift" 
-     style="width: 500px; height: 500px;
-     align=center">
+     style="width: 30%; height: auto;
+     " align="center">
 
 
 <p  align="center">### 🚀 About Me
 I'm currently pursuing a degree in **Information Technology** at **QUEST Nawabshah**. I'm passionate about **web development** and always eager to learn new technologies to enhance my skills in building modern, responsive websites. </p>
 
 
-### 🎯 Goals
+<p align="center">### 🎯 Goals
 - Enhance my knowledge in **Full-Stack development**.
 - Dive deeper into **Full-stack development** and explore **backend technologies**.
 - Contribute to open-source projects and collaborate with other developers.
@@ -27,7 +27,7 @@ I'm currently pursuing a degree in **Information Technology** at **QUEST Nawabsh
 
 - 💬 Ask me about **React NextJS**
 
-- 📫 How to reach me **musawirkorai@gmail.com**
+- 📫 How to reach me **musawirkorai@gmail.com** </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -39,8 +39,8 @@ I'm currently pursuing a degree in **Information Technology** at **QUEST Nawabsh
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=musawirkorai&show_icons=true&locale=en&layout=compact" alt="musawirkorai" /></p>
 
-### 📫 Let's Connect!
+<p align="center"> ### 📫 Let's Connect!
 - [GitHub](https://github.com/Musawirkorai)
 - [LinkedIn](https://linkedin.com/in/MusawirKorai)
 
-Feel free to reach out for collaboration or to discuss new ideas!
+Feel free to reach out for collaboration or to discuss new ideas! </p>
