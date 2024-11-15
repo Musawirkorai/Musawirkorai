@@ -11,23 +11,23 @@
 I'm currently pursuing a degree in **Information Technology** at **QUEST Nawabshah**. I'm passionate about **web development** and always eager to learn new technologies to enhance my skills in building modern, responsive websites. </p>
 
 
-<p align="center">### 🎯 Goals
-- Enhance my knowledge in **Full-Stack development**.
-- Dive deeper into **Full-stack development** and explore **backend technologies**.
+<p align="center"> 🎯 Goals
+- Enhance my knowledge in Full-Stack development.
+- Dive deeper into Full-stack development and explore Backend technologies.
 - Contribute to open-source projects and collaborate with other developers.
 
 
-- 🔭 I’m currently working on **Some interesting personal projects**
+- 🔭 I’m currently working on Some interesting personal projects
 
-- 🌱 I’m currently learning **Next.JS React JavaScript**
+- 🌱 I’m currently learning Next.JS React JavaScript
 
-- 👯 I’m looking to collaborate on **In React based Apps**
+- 👯 I’m looking to collaborate on In React based Apps
 
 - 👨‍💻 All of my projects are available at [https://musawirkorai.github.io/Musawir-s-portfolio/](https://musawirkorai.github.io/Musawir-s-portfolio/)
 
-- 💬 Ask me about **React NextJS**
+- 💬 Ask me about React NextJS
 
-- 📫 How to reach me **musawirkorai@gmail.com** </p>
+- 📫 How to reach me musawirkorai@gmail.com </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -39,7 +39,7 @@ I'm currently pursuing a degree in **Information Technology** at **QUEST Nawabsh
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=musawirkorai&show_icons=true&locale=en&layout=compact" alt="musawirkorai" /></p>
 
-<p align="center"> ### 📫 Let's Connect!
+<p align="center">  📫 Let's Connect!
 - [GitHub](https://github.com/Musawirkorai)
 - [LinkedIn](https://linkedin.com/in/MusawirKorai)</p>
 
