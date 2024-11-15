@@ -1,4 +1,5 @@
-https://github.com/Musawirkorai/Musawirkorai/blob/2b59392b50818b623d94fefe8a1d3162b9ab60d2/Dev%20Gift.gif
+
+![Dev Gift](https://github.com/user-attachments/assets/34d68d5f-671e-466b-88a6-a91337f619cd)
 
 # Hi, I'm Musawir Ali! 👋
 
