@@ -2,9 +2,12 @@
 <h3 align="center">FullStack Developer</h3>
 
 
-  <img src="https://github.com/user-attachments/assets/4f2fe7c3-a044-4d53-9ee7-31a6f8624065" 
-       alt="Dev Gift" 
-       style="width: 40%; height: auto;align="center">
+  <img 
+    src="https://github.com/user-attachments/assets/4f2fe7c3-a044-4d53-9ee7-31a6f8624065" 
+    alt="Dev Gift" 
+    style="width: 30%; height: auto; position: absolute; left: 50%; transform: translateX(-50%);" >
+
+
 
 
 <p  align="center">### 🚀 About Me
