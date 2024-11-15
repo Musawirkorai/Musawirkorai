@@ -1,11 +1,8 @@
-# Hi, I'm Musawir Ali! 👋
+<h1 align="center">Hi 👋, I'm Musawir Ali</h1>
+<h3 align="center">FullStack Developer</h3>
 
 ### 🚀 About Me
 I'm currently pursuing a degree in **Information Technology** at **QUEST Nawabshah**. I'm passionate about **web development** and always eager to learn new technologies to enhance my skills in building modern, responsive websites.
-
-### 💻 Skills & Technologies
-
-
 
 
 ### 🎯 Goals
@@ -13,15 +10,6 @@ I'm currently pursuing a degree in **Information Technology** at **QUEST Nawabsh
 - Dive deeper into **Full-stack development** and explore **backend technologies**.
 - Contribute to open-source projects and collaborate with other developers.
 
-### 📫 Let's Connect!
-- [GitHub](https://github.com/Musawirkorai)
-- [LinkedIn](https://linkedin.com/in/MusawirKorai)
-
-Feel free to reach out for collaboration or to discuss new ideas!
-
-
-<h1 align="center">Hi 👋, I'm Musawir Ali</h1>
-<h3 align="center">FullStack Developer</h3>
 
 - 🔭 I’m currently working on **Some interesting personal projects**
 
@@ -45,3 +33,8 @@ Feel free to reach out for collaboration or to discuss new ideas!
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=musawirkorai&show_icons=true&locale=en&layout=compact" alt="musawirkorai" /></p>
 
+### 📫 Let's Connect!
+- [GitHub](https://github.com/Musawirkorai)
+- [LinkedIn](https://linkedin.com/in/MusawirKorai)
+
+Feel free to reach out for collaboration or to discuss new ideas!
