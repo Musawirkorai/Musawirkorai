@@ -1,19 +1,21 @@
 <h1 align="center">Hi 👋, I'm Musawir Ali</h1>
 <h3 align="center">FullStack Developer</h3>
 
-<div style="width:100%; hieght:50px; background-color:white;">
-  <img 
+<p align="center">
+  <img width="460" height="300" src="https://github.com/user-attachments/assets/4f2fe7c3-a044-4d53-9ee7-31a6f8624065">
+</p>
+<!--   <img 
     src="https://github.com/user-attachments/assets/4f2fe7c3-a044-4d53-9ee7-31a6f8624065" 
     alt="Dev Gift" 
-    style="width: 30%; height: auto; position: absolute; left: 50%; " >
-
-</div>
+    style="width: 30%; height: auto; position: absolute; left: 50%; " > -->
 
 
 
 
-<p  align="center">### 🚀 About Me
-I'm currently pursuing a degree in **Information Technology** at **QUEST Nawabshah**. I'm passionate about **web development** and always eager to learn new technologies to enhance my skills in building modern, responsive websites. </p>
+
+
+<p  align="center"> 🚀 About Me
+I'm currently pursuing a degree in Information Technology at QUEST Nawabshah. I'm passionate about Web Development and always eager to learn new Technologies to enhance my skills in building modern, responsive websites. </p>
 
 
 <p align="center"> 🎯 Goals
