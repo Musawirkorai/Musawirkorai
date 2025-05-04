@@ -49,9 +49,10 @@ I'm currently pursuing a degree in Information Technology at QUEST Nawabshah. I'
   <a href="https://www.php.net/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="php" width="40" height="40"/>
 </a>
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-  <img src="https://worldvectorlogo.com/logos/laravel-wordmark-1.svg" alt="Laravel" width="120" height="40"/>
+<a href="https://laravel.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="Laravel" width="40" height="40"/>
 </a>
+  
 </p>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=musawirkorai&show_icons=true&locale=en&layout=compact" alt="musawirkorai" /></p>
