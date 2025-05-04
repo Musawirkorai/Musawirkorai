@@ -50,7 +50,7 @@ I'm currently pursuing a degree in Information Technology at QUEST Nawabshah. I'
   <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="php" width="40" height="40"/>
 </a>
   <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-  <img src="https://logowik.com/content/uploads/images/laravel-icon-3d-logo-vector.svg" alt="Laravel 3D Logo" width="40" height="40"/>
+  <img src="https://worldvectorlogo.com/logos/laravel-wordmark-1.svg" alt="Laravel" width="120" height="40"/>
 </a>
 </p>
 
