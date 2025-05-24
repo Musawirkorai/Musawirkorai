@@ -48,8 +48,8 @@ I'm currently pursuing a degree in Information Technology at QUEST Nawabshah. I'
 
   
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-  <img src="https://assets.streamlinehq.com/image/private/w_240,h_240,ar_1/f_auto/v1/icons/development/next.js-5pbwgh1hsskyitb8feqocm.png/next.js-i3y01dzo77a8k265oje1cl.png?_a=DATAdtAAZAA0" alt="Next.js" width="40" height="40" />
-</a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40" />
+  </a>
 
 
 
